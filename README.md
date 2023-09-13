@@ -97,7 +97,7 @@ Here are some improvements that can enhance the functionality or utility of this
 3. Include some error handling.
 </details>
 
-### ❤️CSources
+### ❤️Sources
 
 <details><summary><b>Show sources</b></summary>
 * [LLM Chain Documentation: Agent with Memory](https://python.langchain.com/docs/modules/memory/agent_with_memory)
