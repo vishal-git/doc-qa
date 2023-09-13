@@ -101,5 +101,7 @@ Here are some improvements that can enhance the functionality or utility of this
 
 <details><summary><b>Show sources</b></summary>
 [LLM Chain Documentation: Agent with Memory](https://python.langchain.com/docs/modules/memory/agent_with_memory)
+
 [Streamlit Tutorial: Build Conversational App](https://docs.streamlit.io/knowledge-base/tutorials/build-conversational-apps)
+
 </details>
