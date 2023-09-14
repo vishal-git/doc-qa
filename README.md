@@ -2,7 +2,7 @@
 
 This repository is for an app that lets you (a) summarize a document and (b) ask questions about the document. You can point to the URL that contains some text (e.g., an article, a blog post, or an essay) and the app will summarize its content. You can then chat with an agent to ask questions about the document.
 
-## 🚀 Instructions to Launch the App
+## Instructions to Launch the App 🚀
 
 <details><summary><b>Show instructions</b></summary>
 
@@ -24,7 +24,7 @@ In a few seconds the app will be lanuched in your browser. If that doesn't happe
 
 </details>
 
-## 🔑Secrets
+## Secrets 🔑
 
 <details><summary><b>Show config settings</b></summary>
 
@@ -33,7 +33,7 @@ This app makes a call to the OpenAI API. You will need to get the API key from [
 [OpenAI]:      https://openai.com
 </details>
 
-## 🤔How to Use the App
+## How to Use the App 🤔
 
 <details><summary><b>Show intructions</b></summary>
 
@@ -61,7 +61,7 @@ Once a summary is displayed, you can start chatting with the agent and ask quest
 Note that the agent does have memory about recent questions. In the follow-up question above, I asked if there are any alternatives to it, and the agent knew what Imeant by "it" (using Python classes).
 </details>
 
-## ⚙️How It Works
+## How it Works ⚙️
 
 <details><summary><b>Show details</b></summary>
 
@@ -86,7 +86,7 @@ Please note that the app uses **gpt-3.5-turbo-16k** from OpenAI. You can change 
 
 </details>
 
-## 💡Potential Improvements
+## Potential Improvements 💡
 
 <details><summary><b>Show details</b></summary>
 
@@ -97,7 +97,7 @@ Here are some improvements that can enhance the functionality or utility of this
 3. Include some error handling.
 </details>
 
-### ❤️Sources
+### Sources 🔎 
 
 <details><summary><b>Show sources</b></summary>
 
