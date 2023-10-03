@@ -20,7 +20,7 @@ Once all dependencies are installed, you can launch the app using the following 
 
 `streamlit run src/app.py`
 
-In a few seconds the app will be lanuched in your browser. If that doesn't happen automatically, you can copy the URL that's printed in the output.
+In a few seconds the app will be launched in your browser. If that doesn't happen automatically, you can copy the URL that's printed in the output.
 
 </details>
 
