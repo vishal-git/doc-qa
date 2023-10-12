@@ -99,7 +99,9 @@ def create_chat_agent(llm, doc_qa):
 
 
 def main():
-    st.set_page_config(layout="wide")
+    st.set_page_config(layout="wide", 
+                       page_title="Talk to a document",
+                       page_icon=":page_with_curl:")
     st.title("Talk to a document 📃🦜")
     st.markdown(
         "This app lets you summarize a document and also ask questions about the document."
